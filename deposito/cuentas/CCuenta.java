@@ -1,7 +1,10 @@
 package cuentas;
 public class CCuenta {
 
-
+/** Se han computado los atributos con Getters & Setters y se muestran más abajo
+ *@author chare
+ * 
+ */
     private String nombre;
     private String cuenta;
     private double saldo;
